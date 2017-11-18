@@ -25,7 +25,7 @@ SECRET_KEY = 'ccms1%2xy0(_)%g@zj3$-!r0rxtg1bwlcu26p4z!*ugvrlu3ps'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Izolina>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Izolina.pythonanywhere.com']
 
 # Application definition
 
